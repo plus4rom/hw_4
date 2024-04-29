@@ -1,0 +1,26 @@
+div {
+    color: antiquewhite;
+    background: #7979f3;
+}
+h1 {
+    text-align: right;
+}
+.special-text {
+    color: #7878ef;
+}
+.list {
+    font-weight: 600;
+}
+
+.index {
+    color: gold;
+    font-weight: 900;
+    padding-top: 10px;
+}
+.block {
+    background-color: #b9b7b7;
+}
+.marked-text {
+    font-weight: 900;
+    color: blue;
+}
